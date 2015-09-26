@@ -82,7 +82,7 @@ P.S. Код также должен легко модифицироваться 
 
 Codewars
 
-Регистрируемся на codewars
+<a href="http://www.codewars.com/r/qEzvHw">Регистрируемся на codewars</a>
 
 Выполняем задачки:
 
