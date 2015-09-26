@@ -67,5 +67,33 @@ alert( obj.className ); // 'my'
 
 <img src="https://github.com/kl2karpenko/homework_js/blob/lesson4/task3_2.png"/>
 
+## 5 задание
 
+```
+var arr = ['HTML', 'JavaScript', 'CSS'];
+
+// ... ваш код ...
+
+console.log( arrSorted ); // CSS, HTML, JavaScript
+console.log( arr ); // HTML, JavaScript, CSS (без изменений)
+
+```
+
+## 6 задание
+
+Есть массив строк arr. Создайте массив arrSorted — из тех же элементов, но отсортированный.
+
+Палиндром - это строка которая читается с обоих сторон одинаково. Например: Анна, оно, А роза упала на лапу Азора.
+
+Необходимо написать функцию isPal(string) которая возвращает true или false в зависимости от того является ли строка палиндромом или нет.
+
+```
+
+console.log(isPal('Anna')); // true
+console.log(isPal('А роза упала на лапу Азора')); //true
+console.log(isPal('Вася')); //false
+console.log(isPal('12321')); //true
+console.log(isPal('123212')); //false
+
+```
 
