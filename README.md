@@ -65,4 +65,7 @@ alert( obj.className ); // 'my'
 
 Напишите код который принимат от пользователя значение x (можно например через prompt) и выводит значение следующей формулы
 
+<img src="https://github.com/kl2karpenko/homework_js/blob/lesson4/77.gif"/>
+
+
 
