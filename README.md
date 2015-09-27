@@ -119,3 +119,18 @@ console.log( anClean(arr) ); // 'воз,киборг,корсет' или 'ЗО�
 var arr = [ 'rrrA', 'toboR', 'ekiL', 'dooG', 'esoR' ];
 
 ```
+## 9 задание
+
+Codewars
+
+<a href="http://www.codewars.com/r/qEzvHw">Регистрируемся на codewars</a>
+
+Выполняем задачки:
+
+<ol>
+<li> <a href="http://www.codewars.com/kata/even-or-odd">even-or-odd</a></li>
+<li> <a href="http://www.codewars.com/kata/jennys-secret-message">jennys-secret-message</a></li>
+<li> <a href="http://www.codewars.com/kata/return-negative">return-negative</a></li>
+<li> <a href="http://www.codewars.com/kata/opposites-attract">opposites-attract</a></li>
+<li> <a href="http://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no">convert-boolean-values-to-strings-yes-or-no</a></li>
+</ol>
