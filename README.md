@@ -77,19 +77,3 @@ var salaries = {
 Создайте код, который выводит все простые числа из интервала от 2 до 10. Результат должен быть: 2,3,5,7.
 
 P.S. Код также должен легко модифицироваться для любых других интервалов.
-
-## 8 задание
-
-Codewars
-
-<a href="http://www.codewars.com/r/qEzvHw">Регистрируемся на codewars</a>
-
-Выполняем задачки:
-
-<ol>
-<li> <a href="http://www.codewars.com/kata/even-or-odd">even-or-odd</a></li>
-<li> <a href="http://www.codewars.com/kata/jennys-secret-message">jennys-secret-message</a></li>
-<li> <a href="http://www.codewars.com/kata/return-negative">return-negative</a></li>
-<li> <a href="http://www.codewars.com/kata/opposites-attract">opposites-attract</a></li>
-<li> <a href="http://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no">convert-boolean-values-to-strings-yes-or-no</a></li>
-</ol>
