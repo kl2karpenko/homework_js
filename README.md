@@ -2,6 +2,13 @@
 
 !Если что-то непонятно или не знаем как сделать пишем мне в скайп для помощи
 
+Тут нашла классное задание:
+
+Выполните задания:
+http://www.w3schools.com/js/exercise.asp?filename=exercise_functions2
+http://www.w3schools.com/js/exercise.asp?filename=exercise_functions4
+
+
 ## 1 задание
 
 В объекте есть свойство className, которое содержит список «классов» – слов, разделенных пробелом:
