@@ -145,6 +145,13 @@ var arr = [ 'rrrA', 'toboR', 'ekiL', 'dooG', 'esoR' ];
 ```
 ## 10 задание
 
+10.1 Найти сумму целых чисел от 1 до 100
+
+10.2 Найти сумму четных чисел от 0 до 100.
+
+## 11 задание
+
+
 Codewars
 
 <a href="http://www.codewars.com/r/qEzvHw">Регистрируемся на codewars</a>
