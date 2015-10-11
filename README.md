@@ -69,7 +69,6 @@ funtion whenGoBack () {
 funtion whenGoForward () {
 // тут делаем что то когда будем кликать на кнопку Вперед
 }
-
 ```
 
 ## 13 задание
