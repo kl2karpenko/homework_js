@@ -41,3 +41,18 @@ document.addEventListener('keydown', function (event) {
 ## 6 задание
 
 Создайте форму с полями имени, фамилии, имейла и обратной связи которая будет валидироваться, если пользователь неправильно ввел информацию (валидация должна быть сделана как на HTML5 так и с помощью JS, и валидация должна срабатывать при blur с поля инпута формы и при клике на кнопку submit если это нужно)
+
+## 7 задание 
+
+Выполните задание с CODEWARS
+
+<ol>
+<li><a href="http://www.codewars.com/kata/more-than-one-way-to-call-a-function-or-skin-a-cat">more-than-one-way-to-call-a-function-or-skin-a-cat</a></li>
+<li><a href="http://www.codewars.com/kata/case-swapping">case-swapping</a></li>
+<li><a href="http://www.codewars.com/kata/descending-order">descending-order</a></li>
+<li><a href="http://www.codewars.com/kata/complete-the-pattern-number-10-parallelogram">complete-the-pattern-number-10-parallelogram</a></li>
+<li><a href="http://www.codewars.com/kata/find-duplicates">find-duplicates</a></li>
+<li><a href="http://www.codewars.com/kata/gradually-adding-parameters">gradually-adding-parameters</a></li>
+<li><a href="http://www.codewars.com/kata/reverseit-1">reverseit-1</a></li>
+<li><a href="http://www.codewars.com/kata/basic-js-calculating-averages">basic-js-calculating-averages</a></li>
+</ol>
